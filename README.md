@@ -1,5 +1,5 @@
 # Memory-Game-CPSC-1181
-Classic Memory Game, 2 clients and a server
+Classic Memory Game, 2 clients and a server. Built using SciTE.
 
 Who doesn't like the memory game? The game allows for 2 players (clients) to play the game through the server using an instructions interface.
  To run: Open the GameServer file and run it. Then open 2 Player files and run them both. The game will then start.
